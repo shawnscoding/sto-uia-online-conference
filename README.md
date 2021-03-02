@@ -4,8 +4,8 @@
 
 - [Demo](#Demo)
 - [Workflow](#Workflow)
-- [Used Libraries](#Used Libraries)
-- [Job Description](#Job Description)
+- [Used Libraries](#Used-Libraries)
+- [Job Description](#Job-Description)
 - [Faced Difficulties](#FacedDifficulties)
 - [Things to learn](#Thingstolearn)
 
